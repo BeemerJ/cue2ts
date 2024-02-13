@@ -2,6 +2,7 @@
 ![cue2ts](cue2ts.png)
 <br>
 <sub>Convert your Cue files to a more readable Timestamp (eg. YouTube)</sub>
+<sub> | Screenshots: https://imgsli.com/MjM5ODY5</sub>
 <br>
 ## Here's how the script works:
 
