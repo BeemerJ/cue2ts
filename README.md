@@ -1,7 +1,8 @@
 # cue2ts
-
-Convert your Cue files to a more readable Timestamp, great for posting mixes to YouTube 👍
-
+![cue2ts](cue2ts.png)
+<br>
+<sub>Convert your Cue files to a more readable Timestamp (eg. YouTube)</sub>
+<br>
 ## Here's how the script works:
 
 <details>
